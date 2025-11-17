@@ -1,0 +1,17 @@
+El Quijote
+Miguel de Cervantes
+1605
+Novela
+12345
+
+Cien Años de Soledad
+Gabriel García Márquez
+1967
+Realismo Mágico
+67890
+
+La Metamorfosis
+Franz Kafka
+1915
+Ficción
+54321
