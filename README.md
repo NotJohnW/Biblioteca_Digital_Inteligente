@@ -8,13 +8,9 @@ Incluye una arquitectura modular con múltiples archivos y algoritmos implementa
 ✔ Registrar libros con los siguientes campos:
 
 Título
-
 Autor
-
 Año de publicación
-
 Género
-
 ISBN
 
 ✔ Listar todos los libros almacenados
@@ -23,33 +19,6 @@ ISBN
 ✔ Ordenamiento de libros por diferentes criterios dependiendo del algoritmo
 ✔ Menú interactivo por consola
 ✔ Organización modular del código
-
-🧠 Algoritmos implementados
-
-El proyecto integra 5 algoritmos clásicos, cada uno en un archivo independiente:
-
-Algoritmo	Archivo	Descripción
-Búsqueda Lineal	BusquedaLineal.cpp	Recorre la lista secuencialmente para buscar un libro por título.
-Búsqueda Binaria	BusquedaBinaria.cpp	Búsqueda eficiente en listas ordenadas por título.
-Ordenamiento Burbuja (Bubble Sort)	OrdenamientoBurbuja.cpp	Ordena libros por título.
-Ordenamiento por Selección (Selection Sort)	OrdenamientoSeleccion.cpp	Ordena libros por autor.
-QuickSort	QuickSort.cpp	Ordena libros por ISBN.
-📁 Estructura del proyecto
-/BibliotecaDigital
-│
-├── main.cpp
-├── Libro.h
-├── Libro.cpp
-├── GestorBiblioteca.h
-├── GestorBiblioteca.cpp
-│
-├── BusquedaLineal.cpp
-├── BusquedaBinaria.cpp
-├── OrdenamientoBurbuja.cpp
-├── OrdenamientoSeleccion.cpp
-├── QuickSort.cpp
-│
-└── datos.txt
 
 ▶️ Cómo ejecutar el programa
 👇 1. Compilación
@@ -77,13 +46,11 @@ Al ejecutarlo, verás un menú como el siguiente:
 
 
 Cada opción permite usar uno de los algoritmos o modificar la colección de libros.
-
 Todos los datos se guardan automáticamente en datos.txt al salir del programa.
 
 📄 Archivo de datos (datos.txt)
 
 El archivo de datos usa el siguiente formato:
-
 1 línea → título
 1 línea → autor
 1 línea → año
