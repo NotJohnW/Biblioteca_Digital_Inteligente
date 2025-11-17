@@ -8,16 +8,25 @@ Incluye una arquitectura modular con múltiples archivos y algoritmos implementa
 ✔ Registrar libros con los siguientes campos:
 
 Título
+
 Autor
+
 Año de publicación
+
 Género
+
 ISBN
 
 ✔ Listar todos los libros almacenados
+
 ✔ Cargar y guardar información en archivo (datos.txt)
+
 ✔ Búsqueda de libros por título
+
 ✔ Ordenamiento de libros por diferentes criterios dependiendo del algoritmo
+
 ✔ Menú interactivo por consola
+
 ✔ Organización modular del código
 
 ▶️ Cómo ejecutar el programa
@@ -80,7 +89,7 @@ Autor: Alfonso Vega
 Institución: Pontificia Universidad javeriana Cali
 Fecha: 17/11/2025
 
-Autor: Alfonso Vega 
+Autor: Alan Mendez
 Institución: Pontificia Universidad javeriana Cali
 Fecha: 17/11/2025
 
